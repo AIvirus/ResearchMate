@@ -12,4 +12,5 @@ langchain==0.0.320
 PyPDF2==3.0.1
 chromadb==0.4.5
 faiss-cpu==1.7.4
+langchain==0.0.320
 langchain_google_genai==0.0.3
